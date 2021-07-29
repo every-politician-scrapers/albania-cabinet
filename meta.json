@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q38433634",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/albania-cabinet"
+    "cabinet": {
+      "id": "Q38433634",
+      "start": "2017-09-13"
+    },
+    "source": {
+        "url":   "https://kryeministria.al/en/",
+        "title": "Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/albania-cabinet"
 }

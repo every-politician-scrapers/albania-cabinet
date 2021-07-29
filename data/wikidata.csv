@@ -1,4 +1,4 @@
-wdid,name,pid,position,psid
-Q31669464,Ogerta Manastirliu,Q98966286,Minister of Health and Social Protection,Q31669464-ee7df8de-4ab7-5bfa-ddc2-dfb7b32d4396
-Q84323692,Sander Lleshi,Q63792717,Minister of Internal Affairs,Q84323692-A6544F13-2CA3-4C5B-8BDE-A488B2BBDA8B
-Q316901,Edi Rama,Q16009376,Prime Minister of Albania,Q316901-540f7b6f-47ad-5431-b4d8-dbf9ccbe2a28
+wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q316901,Edi Rama,Edi Rama,male,1964-07-04T00:00:00Z,11,,Q16009376,Prime Minister of Albania,Q316901-540f7b6f-47ad-5431-b4d8-dbf9ccbe2a28
+Q31669464,Ogerta Manastirliu,Ogerta Manastirliu,female,1978-12-31T00:00:00Z,11,,Q98966286,Minister of Health and Social Protection,Q31669464-ee7df8de-4ab7-5bfa-ddc2-dfb7b32d4396
+Q84323692,Sander Lleshi,Sander Lleshi,male,1963-01-25T00:00:00Z,11,,Q63792717,Minister of Internal Affairs,Q84323692-A6544F13-2CA3-4C5B-8BDE-A488B2BBDA8B
