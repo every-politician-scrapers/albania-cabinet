@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Albania",
+      "id": "Q222"
+    },
     "cabinet": {
       "id": "Q38433634",
-      "start": "2017-09-13"
+      "start": "2017-09-13",
+      "parent": "Q3302931"
     },
     "source": {
         "url":   "https://kryeministria.al/en/",
