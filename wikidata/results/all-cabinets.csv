@@ -1,3 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q1719743,Second Berisha Cabinet,2009-09-17,11,,,2013-01-01,9,,,Q3302931,Cabinet of Albania,,,,,Q14941826,Rama Government,,,,
+,Q14941826,Rama Government,2013-01-01,9,,,2017-01-01,9,,,Q3302931,Cabinet of Albania,,,Q1719743,Second Berisha Cabinet,Q38433634,Rama II Cabinet,,,,
 ,Q38433634,Rama II Cabinet,2017-09-13,11,,,2021-09-17,11,,,Q3302931,Cabinet of Albania,,,Q14941826,Rama Government,Q108441164,Rama III Government,,,,
 ,Q108441164,Rama III Government,2021-09-17,11,,,,,,,Q3302931,Cabinet of Albania,,,Q38433634,Rama II Cabinet,,,,,,
