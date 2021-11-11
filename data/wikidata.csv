@@ -1,18 +1,19 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q97241319,Anila Denaj,Anila Denaj,female,1973-09-18T00:00:00Z,11,https://kryeministria.al/en/,Q45178938,Minister of Finance and Economy,Q97241319-B482C156-C4BD-4BF3-9BFC-EF1BB55D00B5
-Q13037063,Arben Ahmetaj,Arben Ahmetaj,male,1969-06-28T00:00:00Z,11,https://kryeministria.al/en/ministrat/arben-ahmetaj/,Q107863487,Minister of State for Reconstruction,Q13037063-C99BEE27-C800-4642-904B-A22E539241C8
-Q70480584,Belinda Balluku,Belinda Balluku,female,1973-10-09T00:00:00Z,11,https://kryeministria.al/en/,Q107863483,Minister of Infrastructure and Energy,Q70480584-4B7FFD36-C6C0-4655-8F17-40CB8AFD25D0
-Q16350979,Bledi Çuçi,Bledi Çuçi,male,1970-11-14T00:00:00Z,11,https://kryeministria.al/en/,Q63792717,Minister of Interior,Q16350979-9F08DF23-0049-4D1D-BDDF-38D6EB4EBDE5
-Q13037656,Blendi Klosi,Blendi Klosi,male,1971-01-17T00:00:00Z,11,https://kryeministria.al/en/,Q107863478,Minister of Tourism and Environment,Q13037656-0118691F-FEB1-4E6E-A4BF-772611CC0C5B
-Q316901,Edi Rama,Edi Rama,male,1964-07-04T00:00:00Z,11,https://kryeministria.al/en/,Q16009376,PRIME MINISTER,Q316901-540f7b6f-47ad-5431-b4d8-dbf9ccbe2a28
-Q13038498,Eduard Shalsi,Eduard Shalsi,male,1968-01-01T00:00:00Z,9,https://kryeministria.al/en/,Q107863472,Minister of State for Entrepreneurship Protection,Q13038498-C45D95D8-41CD-4D70-82B2-DC34A2A38B94
-Q31880047,Elisa Spiropali,Elisa Spiropali,female,1983-03-15T00:00:00Z,11,https://kryeministria.al/en/,Q107863468,Minister of State for Parliament Relations,Q31880047-7BBD6059-96A3-4C8E-A182-B3CAD0DB3DBB
-Q61080034,Elva Margariti,Elva Margariti,female,1980-06-14T00:00:00Z,11,https://kryeministria.al/en/,Q107863463,Minister of Culture,Q61080034-5BF30B48-1C10-49BA-A006-AB55B039D4D5
-Q13038669,Erion Braçe,Erion Braçe,male,1972-04-02T00:00:00Z,11,https://kryeministria.al/en/,Q17513826,Deputy Prime Minister,Q13038669-5BD941ED-0CF8-47BF-89AC-BBA5C8D9A3CC
-Q41448850,Etilda Gjonaj,Etilda Gjonaj,female,1981-05-06T00:00:00Z,11,https://kryeministria.al/en/,Q55286792,Minister of Justice,Q41448850-46F29E01-9D15-42AF-AC65-03A8A7DF96FD
-Q31880612,Evis Kushi,Evis Kushi,female,1975-10-07T00:00:00Z,11,https://kryeministria.al/en/,Q107863513,Minister of Education Sport and Youth,Q31880612-84737585-3677-488B-88DB-538681685094
-Q25570422,Milva Ekonomi,Milva Konomi,female,1962-01-01T00:00:00Z,9,https://kryeministria.al/en/,Q107863512,Minister of Agriculture and Rural Development,Q25570422-68F326C6-62BB-447C-BF8F-5F5A11ACC79E
-Q13043483,Niko Peleshi,Niko Peleshi,male,1970-11-11T00:00:00Z,11,https://kryeministria.al/en/,Q30612831,Minister of Defense,Q13043483-217E04FB-3B62-481F-8526-3D0A23F98202
-Q31669464,Ogerta Manastirliu,Ogerta Manastirliu,female,1978-12-31T00:00:00Z,11,https://kryeministria.al/en/,Q98966286,Minister of Health and Social Protection,Q31669464-ee7df8de-4ab7-5bfa-ddc2-dfb7b32d4396
-Q13043722,Olta Xhaçka,Olta Xhaçka,female,1979-12-25T00:00:00Z,11,https://kryeministria.al/en/,Q3304204,Minister for Europe and Foreign Affairs,Q13043722-38C8D442-9CD1-491B-8B01-3FD271453674
-Q381214,Pandeli Majko,Pandeli Majko,male,1967-11-15T00:00:00Z,11,https://kryeministria.al/en/,Q48989166,Minister of State for Diaspora,Q381214-564E5197-F91B-442E-927E-69DBF6947863
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q108597695,Frida Krifca,Frida Krifca,,1978-03-20,11,https://kryeministria.al/en/,2021-11-11,Q107863512,Minister of Agriculture and Rural Development,Q108597695-B17385CD-F85F-4C3B-955F-087368C12F94
+Q108698181,Delina Ibrahimaj,Delina Ibrahimaj,female,1983-12-23,11,https://kryeministria.al/en/,2021-11-11,Q45178938,Minister of Finance and Economy,Q108698181-D8893444-DC79-45B9-954B-FD8E162B99C7
+Q109179095,Edona Bilali,Edona Bilali,female,1989-06-13,11,https://kryeministria.al/en/,2021-11-11,Q107863472,Minister of State for Entrepreneurship Protection,Q109179095-E6331FA4-21F9-488D-A0C1-B959BEAAD8E7
+Q109524653,Bora Muzhaqi,Bora Muzhaqi,,,,https://kryeministria.al/en/,2021-11-11,Q109524654,Minister of State for Youth and Children,Q109524653-C49FCF46-D91A-4B0E-8F64-6CD1A8A0F622
+Q13037063,Arben Ahmetaj,Arben Ahmetaj,male,1969-06-28,11,https://kryeministria.al/en/,2021-11-11,Q17513826,Deputy PM,Q13037063-6950F6E8-B1E4-4068-AEC1-96686A1E6B81
+Q13037063,Arben Ahmetaj,Arben Ahmetaj,male,1969-06-28,11,https://kryeministria.al/en/,2021-11-11,Q107863487,Minister of State for Reconstruction and Reforms’ Program,Q13037063-C99BEE27-C800-4642-904B-A22E539241C8
+Q13043483,Niko Peleshi,Niko Peleshi,male,1970-11-11,11,https://kryeministria.al/en/,2021-08-04,Q30612831,Minister of Defense,Q13043483-217E04FB-3B62-481F-8526-3D0A23F98202
+Q13043722,Olta Xhaçka,Olta Xhaçka,female,1979-12-25,11,https://kryeministria.al/en/,2021-07-29,Q3304204,Minister for Europe and Foreign Affairs,Q13043722-38C8D442-9CD1-491B-8B01-3FD271453674
+Q15724978,Mirela Kumbaro,Mirela Kumbaro,female,1966-03-04,11,https://kryeministria.al/en/,2021-11-11,Q107863478,Minister of Tourism and Environment,Q15724978-2C7EC7C6-53D8-466C-9007-978CD4E5D5D3
+Q16350979,Bledar Çuçi,Bledi Çuçi,male,1970-11-14,11,https://kryeministria.al/en/,2021-11-11,Q63792717,Minister of Interior Affairs,Q16350979-9F08DF23-0049-4D1D-BDDF-38D6EB4EBDE5
+Q25570422,Milva Ekonomi,Milva Ekonomi,female,1962-01-01,9,https://kryeministria.al/en/,2021-11-11,Q109524548,Minister of State for Services Standards,Q25570422-6F9C4F43-D547-402F-A17A-82DE11125DCF
+Q31669464,Ogerta Manastirliu,Ogerta Manastirliu,female,1978-12-31,11,https://kryeministria.al/en/,2021-11-11,Q98966286,Minister of Health and Social Welfare,Q31669464-ee7df8de-4ab7-5bfa-ddc2-dfb7b32d4396
+Q316901,Edi Rama,Edi Rama,male,1964-07-04,11,https://kryeministria.al/en/,2021-11-11,Q16009376,Prime Minister,Q316901-540f7b6f-47ad-5431-b4d8-dbf9ccbe2a28
+Q31880047,Elisa Spiropali,Elisa Spiropali,female,1983-03-15,11,https://kryeministria.al/en/,2021-08-04,Q107863468,Minister of State for Parliament Relations,Q31880047-7BBD6059-96A3-4C8E-A182-B3CAD0DB3DBB
+Q31880612,Evis Kushi,Evis Kushi,female,1975-10-07,11,https://kryeministria.al/en/,2021-11-11,Q107863513,Minister of Education and Sports,Q31880612-84737585-3677-488B-88DB-538681685094
+Q31970269,Ulsi Manja,Ulsi Manja,male,,,https://kryeministria.al/en/,2021-11-11,Q55286792,Minister of Justice,Q31970269-37FFC69A-BBA2-4EC1-B4A4-C1B2AC562501
+Q61080034,Elva Margariti,Elva Margariti,female,1980-06-14,11,https://kryeministria.al/en/,2021-08-04,Q107863463,Minister of Culture,Q61080034-5BF30B48-1C10-49BA-A006-AB55B039D4D5
+Q70480584,Belinda Balluku,Belinda Balluku,female,1973-10-09,11,https://kryeministria.al/en/,2021-08-04,Q107863483,Minister of Infrastructure and Energy,Q70480584-4B7FFD36-C6C0-4655-8F17-40CB8AFD25D0
