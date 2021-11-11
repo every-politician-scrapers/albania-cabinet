@@ -12,7 +12,7 @@ class MemberList
     end
 
     def position
-      noko.css('span').last.text.tidy
+      noko.css('span').last.text.split(/(?:and (?=Minister))/).map(&:tidy)
     end
   end
 
