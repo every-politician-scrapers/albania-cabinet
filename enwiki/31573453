@@ -1,0 +1,565 @@
+{
+  "title": "Arben Ahmetaj",
+  "pageID": 31573453,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "Politicians from Tirana",
+    "Government ministers of Albania",
+    "Deputy Prime Ministers of Albania",
+    "Tourism ministers of Albania",
+    "21st-century Albanian politicians",
+    "Socialist Party of Albania politicians",
+    "University of Kentucky alumni",
+    "Georgetown University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arben Ahmetaj (born 28 June 1969 in Gjirokastër) is an Albanian politician who currently is serving as the Deputy Prime Minister of Albania since 18 September 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gjirokastër"
+                },
+                {
+                  "text": "Albanian",
+                  "type": "internal",
+                  "page": "Albanians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Albania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Arben Ahmetaj"
+                ]
+              }
+            },
+            {
+              "text": "Since 2013 previously has served in several important departments such as: Minister of Economic Development, Minister of Finance, as well as Minister of State for Reconstruction after the devastating earthquake in 2019 that occurred in the central area of the country.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Finance minister"
+                },
+                {
+                  "text": "earthquake",
+                  "type": "internal",
+                  "page": "2019 Albania earthquake"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "9",
+            "date": "18",
+            "df": "y",
+            "template": "start date",
+            "text": "September 18, 2021"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2009",
+            "month": "6",
+            "date": "28",
+            "df": "y",
+            "template": "start date",
+            "text": "June 28, 2009"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2013",
+            "month": "9",
+            "date": "15",
+            "df": "yes",
+            "template": "start date",
+            "text": "September 15, 2013"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2016",
+            "month": "02",
+            "date": "22",
+            "df": "yes",
+            "template": "end date",
+            "text": "February 22, 2016"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2016",
+            "month": "2",
+            "date": "26",
+            "df": "yes",
+            "template": "start date",
+            "text": "February 26, 2016"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "05",
+            "date": "22",
+            "df": "yes",
+            "template": "end date",
+            "text": "May 22, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "9",
+            "date": "13",
+            "df": "yes",
+            "template": "start date",
+            "text": "September 13, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "1",
+            "date": "5",
+            "df": "yes",
+            "template": "end date",
+            "text": "January 5, 2019"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "12",
+            "date": "20",
+            "df": "yes",
+            "template": "start date",
+            "text": "December 20, 2019"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "9",
+            "date": "18",
+            "df": "yes",
+            "template": "end date",
+            "text": "September 18, 2021"
+          }
+        },
+        {
+          "year": "1969",
+          "month": "6",
+          "day": "28",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Arben Ahmetaj"
+          },
+          "honorific-suffix": {
+            "text": "MP"
+          },
+          "image": {
+            "text": "Επίσκεψη Υπουργού Εξωτερικών Ν. Κοτζιά στην Αλβανία (14-16.07.2015) (19719282911) (cropped).jpg"
+          },
+          "office": {
+            "text": "Deputy Prime Minister",
+            "links": [
+              {
+                "text": "Deputy Prime Minister",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Albania"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ilir Meta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "September 18, 2021"
+          },
+          "predecessor": {
+            "text": "Erion Braçe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erion Braçe"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Albanian"
+          },
+          "term_start1": {
+            "text": "June 28, 2009"
+          },
+          "office2": {
+            "text": "Ministry of Economic Development, Tourism, Trade and Enterprise",
+            "links": [
+              {
+                "text": "Ministry of Economic Development, Tourism, Trade and Enterprise",
+                "type": "internal",
+                "page": "Ministry of Economic Development, Tourism, Trade and Enterprise (Albania)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "September 15, 2013"
+          },
+          "term_end2": {
+            "text": "February 22, 2016"
+          },
+          "president2": {
+            "text": "Bujar Nishani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bujar Nishani"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Milva Ekonomi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Milva Ekonomi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Ministry of Finance",
+            "links": [
+              {
+                "text": "Ministry of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance and Economy (Albania)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "February 26, 2016"
+          },
+          "term_end3": {
+            "text": "May 22, 2017"
+          },
+          "president3": {
+            "text": "Ilir Meta"
+          },
+          "primeminister3": {
+            "text": "Edi Rama"
+          },
+          "predecessor3": {
+            "text": "Shkëlqim Cani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shkëlqim Cani"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Helga Vukaj"
+          },
+          "term_start4": {
+            "text": "September 13, 2017"
+          },
+          "term_end4": {
+            "text": "January 5, 2019"
+          },
+          "primeminister4": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Helga Vukaj"
+          },
+          "successor4": {
+            "text": "Anila Denaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anila Denaj"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Minister of State for Reconstruction"
+          },
+          "term_start5": {
+            "text": "December 20, 2019"
+          },
+          "term_end5": {
+            "text": "September 18, 2021"
+          },
+          "president5": {
+            "text": "Ilir Meta"
+          },
+          "primeminister5": {
+            "text": "Edi Rama"
+          },
+          "birth_date": {
+            "text": "June 28, 1969"
+          },
+          "birth_place": {
+            "text": "Gjirokastër, Albania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gjirokastër"
+              },
+              {
+                "type": "internal",
+                "page": "Albania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party of Albania"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Kentucky; Georgetown University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Kentucky"
+              },
+              {
+                "type": "internal",
+                "page": "Georgetown University"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Arben Ahmetaj (nënshkrim).svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Arben Ahmetaj",
+          "url": "https://kryeministria.al/en/ministrat/arben-ahmetaj/",
+          "access-date": "2021-09-20",
+          "website": "Qeveria Shqiptare Keshilli i Ministrave",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life and Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arben Ahmetaj was born in Gjirokastra on June 28, 1969.",
+              "links": [
+                {
+                  "text": "Gjirokastra",
+                  "type": "internal",
+                  "page": "Gjirokastër"
+                }
+              ]
+            },
+            {
+              "text": "He completed his studies in English, specializing in American and English Literature, at the University of Tirana.",
+              "links": [
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                },
+                {
+                  "text": "English Literature",
+                  "type": "internal",
+                  "page": "English literature"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tirana"
+                }
+              ]
+            },
+            {
+              "text": "He completed his master studies at the University of Kentucky from 1995 to 1997 in International Trade and Diplomacy, as well as his doctorate at the University of Bucharest with the topic \"Energy Security, International Security\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Kentucky"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Bucharest"
+                }
+              ]
+            },
+            {
+              "text": "He successfully completed a scholarship to Georgetown University, Edmund Walsh School of Foreign Service, Washington D.C, and has been a participant in the Khokalis program at Harvard University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Georgetown University"
+                },
+                {
+                  "text": "Washington D.C",
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ]
+            },
+            {
+              "text": "Arben Ahmetaj has worked as an external lecturer at the University of Tirana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tirana"
+                }
+              ]
+            },
+            {
+              "text": "In the years 1998–1999, he held the position of Chairman of the General Directorate of Taxation.",
+              "links": [
+                {
+                  "text": "General Directorate of Taxation",
+                  "type": "internal",
+                  "page": "General Directorate of Taxation (Albania)"
+                }
+              ]
+            },
+            {
+              "text": "In 2003-2004 he served as Deputy Minister in the Ministry of Energy and Industry, while in 2004-2005 as Deputy Minister in the Ministry of European Integration.",
+              "links": [
+                {
+                  "text": "Ministry of European Integration",
+                  "type": "internal",
+                  "page": "Ministry of European Integration (Albania)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Ahmetaj",
+          "first": "Arben",
+          "date": "29 May 2016",
+          "title": "Self-Declaration Form",
+          "url": "http://dekriminalizimi.isp.com.al/wp-content/uploads/2021/01/Arben-Ahmetaj.pdf",
+          "url-status": "live",
+          "publisher": "CEC; Instituti i Studimeve Politike (ISP)",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Arben Ahmetaj",
+          "url": "https://www.matesielektor.al/TeZgjedhurit/Arben-Ahmetaj",
+          "access-date": "2021-09-20",
+          "website": "Matesi Elektoral",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2016-02-26",
+          "title": "Z. Arben Ahmetaj emërohet Ministër i Financave",
+          "url": "https://www.financa.gov.al/z-arben-ahmetaj-emerohet-minister-i-financave/",
+          "access-date": "2021-09-20",
+          "website": "Ministria Financave dhe Ekonomisë",
+          "language": "sq",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "albania-politician-stub"
+        }
+      ]
+    }
+  ]
+}

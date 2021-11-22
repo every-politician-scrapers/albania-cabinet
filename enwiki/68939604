@@ -1,0 +1,222 @@
+{
+  "title": "Ulsi Manja",
+  "pageID": 68939604,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "21st-century Albanian politicians",
+    "Government ministers of Albania",
+    "Justice ministers of Albania"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ulsi Manja is an Albanian politician.",
+              "links": [
+                {
+                  "text": "Albanian",
+                  "type": "internal",
+                  "page": "Albania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ulsi Manja"
+                ]
+              }
+            },
+            {
+              "text": ", he serves as Minister of Justice in the third Rama government led by Prime Minister Edi Rama.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Albania)"
+                },
+                {
+                  "text": "third Rama government",
+                  "type": "internal",
+                  "page": "Rama III Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edi Rama"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "1973",
+            "10",
+            "5"
+          ],
+          "df": "yes",
+          "template": "date of birth and age"
+        },
+        {
+          "list": [
+            "2021",
+            "9",
+            "18"
+          ],
+          "since": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ulsi Manja"
+          },
+          "image": {
+            "text": "Ulsi Manja (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Albania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 September 2021"
+          },
+          "president": {
+            "text": "Ilir Meta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Etilda Gjonaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Etilda Gjonaj"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Dohoshisht, Dibër, Albania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dohoshisht"
+              },
+              {
+                "text": "Dibër",
+                "type": "internal",
+                "page": "Dibër Municipality"
+              },
+              {
+                "type": "internal",
+                "page": "Albania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party of Albania"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Ulsi Manja (nënshkrim).svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "17 September 2021",
+          "title": "Albanian parl endorses new govt led by PM Rama",
+          "work": "SeeNews",
+          "url": "https://seenews.com/news/albanian-parl-endorses-new-govt-led-by-pm-rama-754349",
+          "access-date": "9 October 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Erebara",
+          "first": "Gjergj",
+          "date": "2 September 2021",
+          "title": "Rama Appoints Albania’s First Mainly Female Cabinet",
+          "work": "BalkanInsight",
+          "url": "https://balkaninsight.com/2021/09/02/albania-pm-announce-new-cabinet-complains-about-job-for-votes-politics/",
+          "access-date": "9 October 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Etilda Gjonaj",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Justice",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "albania-politician-stub"
+        }
+      ]
+    }
+  ]
+}

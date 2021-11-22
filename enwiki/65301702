@@ -1,0 +1,268 @@
+{
+  "title": "Bledar Çuçi",
+  "pageID": 65301702,
+  "categories": [
+    "Living people",
+    "1970 births",
+    "Politicians from Tirana",
+    "21st-century Albanian politicians",
+    "Government ministers of Albania",
+    "Agriculture ministers of Albania"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bledar \"Bledi\" Çuçi (born 14 November 1970) is an Albanian politician.",
+              "links": [
+                {
+                  "text": "Albanian",
+                  "type": "internal",
+                  "page": "Albania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bledar \"Bledi\" Çuçi"
+                ]
+              }
+            },
+            {
+              "text": "From January 2019 until December 2020 he served as Minister of Agriculture and Rural Development in the second cabinet of Edi Rama.",
+              "links": [
+                {
+                  "text": "Minister of Agriculture and Rural Development",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture and Rural Development (Albania)"
+                },
+                {
+                  "text": "second cabinet",
+                  "type": "internal",
+                  "page": "Rama II Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edi Rama"
+                }
+              ]
+            },
+            {
+              "text": "On 16 December 2020, he was chosen by Prime Minister Edi Rama to serve as Interior Minister following the resignation of Sandër Lleshaj after mass protests hit the country following the police shooting of a 25 year old man who broke quarantine curfew.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Edi Rama"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sandër Lleshaj"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1970",
+          "month": "1",
+          "day": "14",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2013",
+            "month": "9",
+            "date": "15",
+            "df": "y",
+            "template": "start date",
+            "text": "September 15, 2013"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "3",
+            "date": "19",
+            "df": "y",
+            "template": "end date",
+            "text": "March 19, 2017"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bledar Çuçi"
+          },
+          "birth_date": {
+            "text": "January 14, 1970"
+          },
+          "birth_place": {
+            "text": "Tirana, Albania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tirana"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Internal Affairs"
+          },
+          "term_start": {
+            "text": "17 December 2020"
+          },
+          "president": {
+            "text": "Ilir Meta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party of Albania"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of State for Local Governance",
+            "links": [
+              {
+                "text": "Minister of State for Local Governance",
+                "type": "internal",
+                "page": "Minister of State for Local Governance (Albania)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "September 15, 2013"
+          },
+          "term_end1": {
+            "text": "March 19, 2017"
+          },
+          "successor1": {
+            "text": "Eduard Shalsi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduard Shalsi"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Bledi Çuçi (nënshkrim).svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2017-05-11",
+          "title": "Formulari i dekriminalizimit dhe CV-ja, kush është Bledi Çuçi (Dokumentet)",
+          "url": "https://argjirolajm.net/formulari-dekriminalizimit-dhe-cv-ja-kush-eshte-bledi-cuci-dokumentet/",
+          "access-date": "2020-11-05",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "17 January 2019",
+          "title": "Albania: New govt ministers sworn in, EU considers it an important moment",
+          "work": "Independent Balkan News Agency",
+          "url": "https://balkaneu.com/albania-new-govt-ministers-sworn-ineu-considers-it-an-important-moment/",
+          "url-status": "live",
+          "access-date": "13 September 2020",
+          "archive-url": "https://web.archive.org/web/20200913091100/https://balkaneu.com/albania-new-govt-ministers-sworn-ineu-considers-it-an-important-moment/",
+          "archive-date": "13 September 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Jonuzaj",
+          "first": "Klaudjo",
+          "date": "17 January 2019",
+          "title": "Albania’s parliament endorses government reshuffle",
+          "work": "SeeNews",
+          "url": "https://seenews.com/news/albanias-parliament-endorses-government-reshuffle-639691",
+          "url-status": "live",
+          "access-date": "13 September 2020",
+          "archive-url": "https://web.archive.org/web/20190117174258/https://seenews.com/news/albanias-parliament-endorses-government-reshuffle-639691",
+          "archive-date": "17 January 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cuci is married to Delina Fico, a civil society activist."
+            },
+            {
+              "text": "In the late 90's, Fico was the fiancee of current Albanian Prime Minister Edi Rama, in whose cabinet Cuci serves."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.newsbomb.al/delina-fico-sqaron-lidhjen-me-ministrin-cuci-s-e-kam-kompleks-kam-qe-ne-1994-ne-shoqerine-civile-60404",
+          "title": "Delina Fico sqaron lidhjen me ministrin Çuçi: S’e kam kompleks, kam që në 1994 në Shoqërinë Civile",
+          "date": "23 November 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "albania-politician-stub"
+        }
+      ]
+    }
+  ]
+}
