@@ -3450,9 +3450,11 @@
                   "page": "Lindita Nikolla"
                 },
                 {
-                  "text": "Besa Shahini",
-                  "type": "internal",
-                  "page": ":sq:Besa Shahini"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "sq"
+                  }
                 }
               ]
             },
@@ -3976,8 +3978,7 @@
               "url": "https://wikipedia.org/wiki/Special:Redirect/file/%CE%95%CF%80%CE%AF%CF%83%CE%B7%CE%BC%CE%B7_%CE%B5%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%91%CE%BD%CF%84%CE%B9%CF%80%CF%81%CE%BF%CE%AD%CE%B4%CF%81%CE%BF%CF%85_%CF%84%CE%B7%CF%82_%CE%9A%CF%85%CE%B2%CE%AD%CF%81%CE%BD%CE%B7%CF%83%CE%B7%CF%82_%CE%BA%CE%B1%CE%B9_%CE%A5%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%BF%CF%8D_%CE%95%CE%BE%CF%89%CF%84%CE%B5%CF%81%CE%B9%CE%BA%CF%8E%CE%BD_%CE%95%CF%85._%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%85_%CF%83%CF%84%CE%B7%CE%BD_%CE%91%CE%BB%CE%B2%CE%B1%CE%BD%CE%AF%CE%B1_(10305864923).jpg",
               "caption": {}
             }
-          ],
-          "pos": "Foreign policy"
+          ]
         },
         {
           "list": [
