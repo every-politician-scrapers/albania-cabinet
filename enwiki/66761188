@@ -236,58 +236,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Chief of General Staff",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In 2020, Begaj assumed the role of Chief of General Staff of the Albanian Armed Forces.",
-              "links": [
-                {
-                  "text": "Chief of General Staff",
-                  "type": "internal",
-                  "page": "Chief of the Albanian General Staff"
-                },
-                {
-                  "type": "internal",
-                  "page": "Albanian Armed Forces"
-                }
-              ]
-            },
-            {
-              "text": "He previously served as the Commander of Training and Doctrine Command, Chief of the Military Medical Unit, Director of the Health Inspectorate and Chief Inspector and Advisor of the Health Inspectorate in General Staff of the Albanian Armed Force."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Begaj is an Associate Professor of Medicine."
-            },
-            {
-              "text": "He is married to Armanda Begaj, they have two adult children."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "albania-bio-stub"
-        }
-      ]
     }
   ]
 }

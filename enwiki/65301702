@@ -223,46 +223,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "Personal life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Cuci is married to Delina Fico, a civil society activist."
-            },
-            {
-              "text": "In the late 90's, Fico was the fiancee of current Albanian Prime Minister Edi Rama, in whose cabinet Cuci serves."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.newsbomb.al/delina-fico-sqaron-lidhjen-me-ministrin-cuci-s-e-kam-kompleks-kam-qe-ne-1994-ne-shoqerine-civile-60404",
-          "title": "Delina Fico sqaron lidhjen me ministrin Çuçi: S’e kam kompleks, kam që në 1994 në Shoqërinë Civile",
-          "date": "23 November 2016",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "albania-politician-stub"
-        }
-      ]
     }
   ]
 }
