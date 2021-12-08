@@ -185,9 +185,76 @@
           "spouse": "Linda Basha",
           "from": "2010",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "0000"
+          ],
+          "template": "0"
+        },
+        {
+          "list": [
+            "0000"
+          ],
+          "template": "0"
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "height_ft": {
+            "text": "6",
+            "number": 6
+          },
+          "height_in": {
+            "text": "7",
+            "number": 7
+          },
+          "league": {
+            "text": "Albanian Basketball League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albanian Basketball League"
+              }
+            ]
+          },
+          "high_school": {
+            "text": "Jordan Misja Artistic Lyceum"
+          },
+          "college": {
+            "text": "Tirana University of Arts",
+            "links": [
+              {
+                "text": "Tirana University of Arts",
+                "type": "internal",
+                "page": "University of Arts (Albania)"
+              }
+            ]
+          },
+          "team1": {
+            "text": "Dinamo Tirana",
+            "links": [
+              {
+                "text": "Dinamo Tirana",
+                "type": "internal",
+                "page": "BC Dinamo Tirana"
+              }
+            ]
+          },
+          "team2": {
+            "text": "Albania national team",
+            "links": [
+              {
+                "text": "Albania national team",
+                "type": "internal",
+                "page": "Albania national basketball team"
+              }
+            ]
+          }
+        },
         {
           "name": {
             "text": "Edi Rama"
@@ -475,58 +542,6 @@
           },
           "website": {
             "text": "edirama.al"
-          }
-        },
-        {
-          "name": {
-            "text": "Edvin Rama"
-          },
-          "league": {
-            "text": "Albanian Basketball League",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albanian Basketball League"
-              }
-            ]
-          },
-          "high_school": {
-            "text": "Jordan Misja Artistic Lyceum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jordan Misja Artistic Lyceum"
-              }
-            ]
-          },
-          "college": {
-            "text": "Tirana University of Arts",
-            "links": [
-              {
-                "text": "Tirana University of Arts",
-                "type": "internal",
-                "page": "University of Arts (Albania)"
-              }
-            ]
-          },
-          "team1": {
-            "text": "Dinamo Tirana",
-            "links": [
-              {
-                "text": "Dinamo Tirana",
-                "type": "internal",
-                "page": "BC Dinamo Tirana"
-              }
-            ]
-          },
-          "team2": {
-            "text": "Albania national basketball team",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albania national basketball team"
-              }
-            ]
           }
         }
       ],
