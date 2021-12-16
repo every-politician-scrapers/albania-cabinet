@@ -64,6 +64,17 @@
           "template": "use dmy dates"
         },
         {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "1",
+            "date": "17",
+            "df": "yes",
+            "template": "start date",
+            "text": "January 17, 2019"
+          }
+        },
+        {
           "year": "1973",
           "month": "10",
           "day": "9",
@@ -85,13 +96,13 @@
             "text": "Belinda Balluku"
           },
           "image": {
-            "text": "Belinda Balluku (cropped).jpg"
+            "text": "Belinda Balluku (portret).jpg"
           },
           "office": {
             "text": "Minister of Infrastructure and Energy"
           },
           "term_start": {
-            "text": "17 January 2019"
+            "text": "January 17, 2019"
           },
           "president": {
             "text": "Ilir Meta",

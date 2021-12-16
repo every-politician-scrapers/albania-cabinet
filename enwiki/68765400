@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Evis Kushi (born October 7, 1975) is an Albanian politician.",
+              "text": "Evis Kushi (born 7 October 1975) is an Albanian politician.",
               "formatting": {
                 "bold": [
                   "Evis Kushi"
@@ -34,6 +34,26 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1975",
+          "month": "10",
+          "day": "7",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "9",
+            "date": "14",
+            "df": "yes",
+            "template": "start date",
+            "text": "September 14, 2020"
+          }
         }
       ],
       "infoboxes": [
@@ -73,7 +93,7 @@
             "text": "Politician"
           },
           "birth_date": {
-            "text": "October 7, 1975 (age 45)"
+            "text": "October 7, 1975"
           },
           "birth_place": {
             "text": "Elbasan, Albania",
@@ -98,7 +118,7 @@
             ]
           },
           "termstart": {
-            "text": "14 September 2020"
+            "text": "September 14, 2020"
           },
           "education": {
             "text": "Universiteti \"Aleksandër Xhuvani\"",
@@ -141,7 +161,7 @@
             "text": "https://www.parlament.al"
           },
           "image": {
-            "text": "Evis Kushi.jpg"
+            "text": "Evis Kushi (portret).jpg"
           },
           "caption": {
             "text": "Kushi in 2020"

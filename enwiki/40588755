@@ -84,6 +84,17 @@
         {
           "template": "date",
           "data": {
+            "year": "2017",
+            "month": "6",
+            "date": "25",
+            "df": "yes",
+            "template": "start date",
+            "text": "June 25, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
             "year": "2021",
             "month": "1",
             "date": "4",
@@ -175,7 +186,7 @@
             "text": "MP"
           },
           "image": {
-            "text": "Niko Peleshi 2013 (cropped).jpg"
+            "text": "Niko Peleshi (portret).jpg"
           },
           "constituency_mp": {
             "text": "Korça",
@@ -191,7 +202,7 @@
             "text": "Albanian"
           },
           "term_start": {
-            "text": "25 June 2017"
+            "text": "June 25, 2017"
           },
           "office1": {
             "text": "Minister of Defence",

@@ -85,6 +85,17 @@
         {
           "template": "date",
           "data": {
+            "year": "2020",
+            "month": "12",
+            "date": "17",
+            "df": "yes",
+            "template": "start date",
+            "text": "December 17, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
             "year": "2013",
             "month": "9",
             "date": "15",
@@ -110,6 +121,9 @@
           "name": {
             "text": "Bledar Çuçi"
           },
+          "image": {
+            "text": "Bledi Çuçi (portret).jpg"
+          },
           "birth_date": {
             "text": "January 14, 1970"
           },
@@ -126,7 +140,7 @@
             "text": "Minister of Internal Affairs"
           },
           "term_start": {
-            "text": "17 December 2020"
+            "text": "December 17, 2020"
           },
           "president": {
             "text": "Ilir Meta",
