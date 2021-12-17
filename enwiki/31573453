@@ -235,8 +235,15 @@
               }
             ]
           },
-          "parliament1": {
-            "text": "Albanian"
+          "office1": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Albania"
+              }
+            ]
           },
           "term_start1": {
             "text": "June 28, 2009"
