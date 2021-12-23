@@ -137,7 +137,14 @@
             ]
           },
           "office": {
-            "text": "Minister of Internal Affairs"
+            "text": "Minister of Internal Affairs",
+            "links": [
+              {
+                "text": "Minister of Internal Affairs",
+                "type": "internal",
+                "page": "Ministry of Internal Affairs (Albania) "
+              }
+            ]
           },
           "term_start": {
             "text": "December 17, 2020"

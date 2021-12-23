@@ -108,7 +108,13 @@
             ]
           },
           "predecessor": {
-            "text": "Milva Ekonomi"
+            "text": "Milva Ekonomi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Milva Ekonomi"
+              }
+            ]
           },
           "termstart": {
             "text": "September 18, 2021"

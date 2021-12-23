@@ -1,0 +1,443 @@
+{
+  "title": "Milva Ekonomi",
+  "pageID": 69525353,
+  "categories": [
+    "Living people",
+    "Politicians from Tirana",
+    "Albanian politicians",
+    "21st-century Albanian politicians",
+    "Government ministers of Albania",
+    "University of Tirana alumni",
+    "1962 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Milva Ekonomi (born in Tirana, Albania) is an Albanian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tirana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Albania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Milva Ekonomi"
+                ]
+              }
+            },
+            {
+              "text": "She is currently serving as the Minister of State for Standards and Services in the Albanian government of President Ilir Meta.",
+              "links": [
+                {
+                  "text": "Albanian government",
+                  "type": "internal",
+                  "page": "Politics of Albania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ilir Meta"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed Minister of State for Standards and Services since September 10, 2021."
+            },
+            {
+              "text": "She studied Statistics and Economics at the University of Agriculture, and a Master in Business Administration (MBA) from the University of Tirana.",
+              "links": [
+                {
+                  "text": "University of Agriculture",
+                  "type": "internal",
+                  "page": "University of Agriculture, Tirana"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tirana"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ekonomi was a lecturer at the University of Tirana, Agricultural University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tirana"
+                }
+              ]
+            },
+            {
+              "text": "She has been nationally and internationally published in the field of statistics, social and economic development, as well as gender studies."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has also served as a member of the Municipal Council of Tirana from 2000 to 2011."
+            },
+            {
+              "text": "Previously she was the Deputy Minister of Health from 2013 to 2016."
+            },
+            {
+              "text": "In February 2016, she was appointed Minister of Economic Development, Tourism, Trade and Entrepreneurship."
+            },
+            {
+              "text": "In January 2020, she became chair of the Committee on Economy and Finance."
+            },
+            {
+              "text": "In December 2020, she was appointed Minister of Agriculture and Rural Development."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "9",
+            "date": "18",
+            "df": "y",
+            "template": "start date",
+            "text": "September 18, 2021"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "9",
+            "date": "9",
+            "df": "y",
+            "template": "start date",
+            "text": "September 9, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2016",
+            "month": "2",
+            "date": "26",
+            "df": "yes",
+            "template": "start date",
+            "text": "February 26, 2016"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "9",
+            "date": "13",
+            "df": "yes",
+            "template": "start date",
+            "text": "September 13, 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "12",
+            "date": "18",
+            "df": "yes",
+            "template": "start date",
+            "text": "December 18, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "9",
+            "date": "18",
+            "df": "yes",
+            "template": "end date",
+            "text": "September 18, 2021"
+          }
+        },
+        {
+          "year": "1962",
+          "month": "12",
+          "day": "31",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Milva Ekonomi"
+          },
+          "honorific-suffix": {
+            "text": "MP"
+          },
+          "image": {
+            "text": "Milva Ekonomi (portret).jpg"
+          },
+          "office": {
+            "text": "Minister of State for Standards and Services",
+            "links": [
+              {
+                "text": "Minister of State for Standards and Services",
+                "type": "internal",
+                "page": "Ministry of State for Standards and Services (Albania)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ilir Meta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "September 18, 2021"
+          },
+          "office1": {
+            "text": "Member of the 30th and 31st Parliament of Albania",
+            "links": [
+              {
+                "text": "31st",
+                "type": "internal",
+                "page": "31st Legislature of Albania"
+              },
+              {
+                "type": "internal",
+                "page": "Parliament of Albania"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "September 9, 2017"
+          },
+          "president1": {
+            "text": "Ilir Meta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "parliamentarygroup1": {
+            "text": "PS",
+            "links": [
+              {
+                "text": "PS",
+                "type": "internal",
+                "page": "Socialist Party of Albania"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Durrës (2017–2025)",
+            "links": [
+              {
+                "text": "Durrës",
+                "type": "internal",
+                "page": "Durrës County"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Ministry of Economic Development, Tourism, Trade and Enterprise",
+            "links": [
+              {
+                "text": "Ministry of Economic Development, Tourism, Trade and Enterprise",
+                "type": "internal",
+                "page": "Ministry of Economic Development, Tourism, Trade and Enterprise (Albania)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "February 26, 2016"
+          },
+          "term_end2": {
+            "text": "September 13, 2017"
+          },
+          "president2": {
+            "text": "Bujar Nishani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bujar Nishani"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Arben Ahmetaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arben Ahmetaj"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Ministry of Agriculture and Rural Development",
+            "links": [
+              {
+                "text": "Ministry of Agriculture and Rural Development",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Rural Development (Albania)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "December 18, 2020"
+          },
+          "term_end4": {
+            "text": "September 18, 2021"
+          },
+          "president4": {
+            "text": "Ilir Meta"
+          },
+          "primeminister4": {
+            "text": "Edi Rama"
+          },
+          "predecessor4": {
+            "text": "Bledar Çuçi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bledar Çuçi"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Frida Krifca",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frida Krifca"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 31, 1962"
+          },
+          "birth_place": {
+            "text": "Tirana, Albania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tirana"
+              },
+              {
+                "type": "internal",
+                "page": "Albania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party of Albania"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Agriculture; University of Tirana",
+            "links": [
+              {
+                "text": "University of Agriculture",
+                "type": "internal",
+                "page": "University of Agriculture, Tirana"
+              },
+              {
+                "type": "internal",
+                "page": "University of Tirana"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Milva Ekonomi (nënshkrim).svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-12-16",
+          "title": "Rama Appoints Minister of Agriculture to Head the Ministry of Interior",
+          "url": "https://exit.al/en/2020/12/16/rama-appoints-minister-of-agriculture-to-head-the-ministry-of-interior/",
+          "access-date": "2021-12-16",
+          "website": "Exit - Explaining Albania",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-09-02",
+          "title": "Rama Appoints Albania’s First Mainly Female Cabinet",
+          "url": "https://balkaninsight.com/2021/09/02/albania-pm-announce-new-cabinet-complains-about-job-for-votes-politics/",
+          "access-date": "2021-12-16",
+          "website": "Balkan Insight",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Milva Ekonomi",
+          "url": "https://kryeministria.al/en/ministrat/bledi-cuci/",
+          "access-date": "2021-12-16",
+          "website": "Qeveria Shqiptare Keshilli i Ministrave",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
