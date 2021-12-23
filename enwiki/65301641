@@ -99,7 +99,14 @@
             "text": "Belinda Balluku (portret).jpg"
           },
           "office": {
-            "text": "Minister of Infrastructure and Energy"
+            "text": "Minister of Infrastructure and Energy",
+            "links": [
+              {
+                "text": "Minister of Infrastructure and Energy",
+                "type": "internal",
+                "page": "Ministry of Infrastructure and Energy (Albania)"
+              }
+            ]
           },
           "term_start": {
             "text": "January 17, 2019"

@@ -115,7 +115,14 @@
             ]
           },
           "office": {
-            "text": "Minister of Culture"
+            "text": "Minister of Culture",
+            "links": [
+              {
+                "text": "Minister of Culture",
+                "type": "internal",
+                "page": "Ministry of Culture (Albania) "
+              }
+            ]
           },
           "term_start": {
             "text": "January 17, 2019"

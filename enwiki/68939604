@@ -3,11 +3,11 @@
   "pageID": 68939604,
   "categories": [
     "Living people",
-    "Year of birth missing (living people)",
     "Place of birth missing (living people)",
     "21st-century Albanian politicians",
     "Government ministers of Albania",
-    "Justice ministers of Albania"
+    "Justice ministers of Albania",
+    "1973 births"
   ],
   "sections": [
     {
@@ -74,13 +74,11 @@
           }
         },
         {
-          "list": [
-            "1973",
-            "10",
-            "5"
-          ],
+          "year": "1973",
+          "month": "10",
+          "day": "5",
           "df": "yes",
-          "template": "date of birth and age"
+          "template": "birth date and age"
         },
         {
           "list": [
@@ -139,6 +137,9 @@
                 "page": "Etilda Gjonaj"
               }
             ]
+          },
+          "birth_date": {
+            "text": "October 5, 1973"
           },
           "birth_place": {
             "text": "Dohoshisht, Dibër, Albania",
