@@ -394,31 +394,6 @@
             "text": "Ilir Meta (nënshkrim).svg"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Ilir Meta, president i ri i Shqipërisë",
-          "url": "http://telegrafi.com/ilir-meta-presidenti-ri-shqiperise/",
-          "date": "28 April 2017",
-          "language": "sq",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Ilir Meta zgjidhet president i Shqipërisë",
-          "url": "https://rtsh.al/lajme/ilir-meta-zgjidhet-president-i-shqiperise/",
-          "website": "rtsh.al",
-          "language": "sq",
-          "date": "28 April 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
