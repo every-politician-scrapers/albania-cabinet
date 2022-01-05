@@ -5,10 +5,14 @@
     "Living people",
     "1990 births",
     "People from Elbasan",
-    "Albanian politicians",
     "Albanian women in politics",
     "21st-century Albanian politicians",
-    "Government ministers of Albania"
+    "Government ministers of Albania",
+    "21st-century Albanian women politicians",
+    "Women government ministers of Albania",
+    "Alumni of the London School of Economics",
+    "Hult International Business School alumni",
+    "Socialist Party of Albania politicians"
   ],
   "sections": [
     {
@@ -18,17 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Bora Muzhaqi (March 11, 1990 in Elbasan, Albania) is an Albanian politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Elbasan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Albania"
-                }
-              ],
+              "text": "Bora Muzhaqi (born 11 March 1990) is an Albanian politician.",
               "formatting": {
                 "bold": [
                   "Bora Muzhaqi"
@@ -50,7 +44,7 @@
               ]
             },
             {
-              "text": "She was appointed Minister of Youth since September 10, 2021."
+              "text": "She was appointed Minister of Youth on 10 September 2021."
             },
             {
               "text": "Muzhaqi graduated with a degree in economics in 2012 from the London School of Economics and Political Science in London, and then went on to study for a master's degree, also in London, at HULT International Business School, in the field of International Business.",
