@@ -1,5 +1,13 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q1719743,Second Berisha Cabinet,2009-09-17,11,,,2013-01-01,9,,,Q3302931,Cabinet of Albania,,,,,Q14941826,Rama Government,,,,
-,Q14941826,Rama Government,2013-01-01,9,,,2017-01-01,9,,,Q3302931,Cabinet of Albania,,,Q1719743,Second Berisha Cabinet,Q38433634,Rama II Cabinet,,,,
-,Q38433634,Rama II Cabinet,2017-09-13,11,,,2021-09-17,11,,,Q3302931,Cabinet of Albania,,,Q14941826,Rama Government,Q108441164,Rama III Government,,,,
-,Q108441164,Rama III Government,2021-09-17,11,,,,,,,Q3302931,Cabinet of Albania,,,Q38433634,Rama II Cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q13044754,Government of National Reconciliation,,,1997-03-12,11,1997-07-25,11,,,,,,,Q2817914,Meksi II Cabinet,Q56037163,Nano III Cabinet
+,Q56037163,Nano III Cabinet,,,1997-07-25,11,1998-10-02,11,,,,,,,Q13044754,Government of National Reconciliation,Q56037247,Majko I Cabinet
+,Q56037247,Majko I Cabinet,,,1998-10-02,11,1999-10-29,11,,,,,,,Q56037163,Nano III Cabinet,Q56037256,Meta I Cabinet
+,Q56037256,Meta I Cabinet,,,1999-10-29,11,2001-09-12,11,,,,,,,Q56037247,Majko I Cabinet,Q39074983,Meta II Cabinet
+,Q39074983,Meta II Cabinet,,,2001-09-12,11,2002-02-22,11,,,,,,,Q56037256,Meta I Cabinet,Q39074932,Majko II Cabinet
+,Q39074932,Majko II Cabinet,,,2002-02-22,11,2002-07-31,11,,,,,,,Q39074983,Meta II Cabinet,Q9362225,Nano IV Cabinet
+,Q9362225,Nano IV Cabinet,2002-07-31,11,,,2005-09-11,11,,,,,,,Q39074932,Majko II Cabinet,,
+,Q11816762,Berisha I Cabinet,2005-09-11,11,,,2009-01-01,9,,,,,,,,,,
+,Q1719743,Second Berisha Cabinet,2009-09-17,11,,,2013-01-01,9,,,,,Q14941826,Rama Government,,,,
+,Q14941826,Rama Government,2013-01-01,9,,,2017-01-01,9,,,Q1719743,Second Berisha Cabinet,Q38433634,Rama II Cabinet,,,,
+,Q38433634,Rama II Cabinet,2017-09-13,11,,,2021-09-17,11,,,Q14941826,Rama Government,Q108441164,Rama III Government,,,,
+,Q108441164,Rama III Government,2021-09-17,11,,,,,,,Q38433634,Rama II Cabinet,,,,,,
