@@ -184,12 +184,12 @@
             ]
           },
           "office1": {
-            "text": "Minister of Defence",
+            "text": "34th Defence Minister of Albania",
             "links": [
               {
-                "text": "Minister of Defence",
+                "text": "Defence Minister of Albania",
                 "type": "internal",
-                "page": "Minister of Defense (Albania)"
+                "page": "Ministry of Defence (Albania)"
               }
             ]
           },
