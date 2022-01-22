@@ -2,19 +2,18 @@
   "title": "Lindita Nikolla",
   "pageID": 47812334,
   "categories": [
-    "Living people",
-    "Date of birth missing (living people)",
-    "Government ministers of Albania",
-    "Education ministers of Albania",
-    "Youth ministers of Albania",
-    "Socialist Party of Albania politicians",
-    "Women government ministers of Albania",
+    "1965 births",
     "21st-century Albanian women politicians",
-    "Speakers of the Parliament of Albania",
-    "Members of the Parliament of Albania",
-    "Women members of the Parliament of Albania",
     "Albanian women in politics",
-    "1965 births"
+    "Education ministers of Albania",
+    "Government ministers of Albania",
+    "Living people",
+    "Members of the Parliament of Albania",
+    "Socialist Party of Albania politicians",
+    "Speakers of the Parliament of Albania",
+    "Women government ministers of Albania",
+    "Women members of the Parliament of Albania",
+    "Youth ministers of Albania"
   ],
   "sections": [
     {
@@ -83,13 +82,11 @@
           "image": {
             "text": "Lindita Nikolla (portret).jpg"
           },
-          "caption": {
-            "text": "Official portrait"
-          },
           "office": {
-            "text": "38th Speaker of the Parliament of Albania",
+            "text": "38th Speaker of the Parliament",
             "links": [
               {
+                "text": "Speaker of the Parliament",
                 "type": "internal",
                 "page": "Speaker of the Parliament of Albania"
               }
@@ -107,13 +104,45 @@
               }
             ]
           },
-          "office2": {
-            "text": "Minister of Education, Youth and Sports",
+          "office1": {
+            "text": "Ministry of Education, Sports and Youth",
             "links": [
               {
-                "text": "Minister of Education, Youth and Sports",
                 "type": "internal",
-                "page": "Ministry of Education and Sport (Albania)"
+                "page": "Ministry of Education, Sports and Youth"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "15 September 2013"
+          },
+          "term_end1": {
+            "text": "11 May 2017"
+          },
+          "predecessor1": {
+            "text": "Myqerem Tafaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Myqerem Tafaj"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mirela Karabina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mirela Karabina"
               }
             ]
           },
@@ -127,54 +156,21 @@
             ]
           },
           "term_start2": {
-            "text": "15 September 2013"
+            "text": "13 September 2017"
           },
           "term_end2": {
-            "text": "11 May 2017"
+            "text": "17 January 2019"
           },
           "predecessor2": {
-            "text": "Myqerem Tafaj",
+            "text": "Mirela Karabina (Education and Sports)",
             "links": [
               {
                 "type": "internal",
-                "page": "Myqerem Tafaj"
+                "page": "Mirela Karabina"
               }
             ]
           },
           "successor2": {
-            "text": "Mirela Karabina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mirela Karabina"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Edi Rama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edi Rama"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 September 2017"
-          },
-          "term_end3": {
-            "text": "17 January 2019"
-          },
-          "predecessor3": {
-            "text": "Mirela Karabina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mirela Karabina"
-              }
-            ]
-          },
-          "successor3": {
             "text": "Besa Shahini",
             "links": [
               {
@@ -217,7 +213,7 @@
             "number": 1
           },
           "education": {
-            "text": "University of Tirana\nAlbanian University",
+            "text": "University of Tirana Albanian University",
             "links": [
               {
                 "type": "internal",
