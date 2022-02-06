@@ -486,6 +486,9 @@
           "successor5": {
             "text": "Esmeralda Uruçi"
           },
+          "birth_name": {
+            "text": "Edvin Kristaq Rama"
+          },
           "birth_date": {
             "text": "July 4, 1964"
           },
@@ -526,6 +529,9 @@
                 "page": "Kristaq Rama"
               }
             ]
+          },
+          "mother": {
+            "text": "Aneta Koleka"
           },
           "alma_mater": {
             "text": "Academy of Arts",
