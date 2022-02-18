@@ -105,7 +105,18 @@
               "text": "On 9 June 2021, Meta was formally impeached by the Albanian parliament in a 104 to 7 vote making him the first Albanian president in history to be removed from power."
             },
             {
-              "text": "Nevertheless he continues to execute his ceremonial duties as president, with his impeachment not being official until settled by the Albanian constitutional court."
+              "text": "Nevertheless, he continues to execute his duties as president, as the Constitutional Court of Albania ruled that accusations against him did not violate the constitution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Constitutional Court of Albania"
+                },
+                {
+                  "text": "constitution",
+                  "type": "internal",
+                  "page": "Constitution of Albania"
+                }
+              ]
             }
           ]
         }
