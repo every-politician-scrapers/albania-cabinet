@@ -40,9 +40,13 @@
                   "Ilir Rexhep Meta"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "Previously he served as Prime Minister from 1999 to 2002 and he was Speaker of the Parliament of Albania from 2013 to 2017.",
+              "text": "Previously Meta served as Prime Minister from 1999 to 2002 and he was Speaker of the Parliament of Albania from 2013 to 2017.",
               "links": [
                 {
                   "text": "Prime Minister",
@@ -56,7 +60,7 @@
               ]
             },
             {
-              "text": "Meta also held positions as Deputy Prime Minister, Minister for Europe and Foreign Affairs and Minister of Economy, Trade, and Energy.",
+              "text": "He also held positions as Deputy Prime Minister, Minister for Europe and Foreign Affairs and Minister of Economy, Trade, and Energy.",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -92,7 +96,7 @@
         {
           "sentences": [
             {
-              "text": "On 28 April 2017, he was elected President of Albania, receiving 87 votes from the 140 Members of Parliament.",
+              "text": "On 28 April 2017, Meta was elected President of Albania, receiving 87 votes from the 140 Members of Parliament.",
               "links": [
                 {
                   "text": "elected",
@@ -102,10 +106,10 @@
               ]
             },
             {
-              "text": "On 9 June 2021, Meta was formally impeached by the Albanian parliament in a 104 to 7 vote making him the first Albanian president in history to be removed from power."
+              "text": "On 9 June 2021, he was formally impeached by the Albanian parliament in a 104 to 7 vote making him the first Albanian president in history to be impeached by parliament."
             },
             {
-              "text": "Nevertheless, he continues to execute his duties as president, as the Constitutional Court of Albania ruled that accusations against him did not violate the constitution.",
+              "text": "On 16 February 2022 the Constitutional Court of Albania overturned the impeachment and ruled that the accusations against him did not violate the constitution.",
               "links": [
                 {
                   "type": "internal",
