@@ -1,234 +1,25 @@
 {
-  "title": "Lindita Nikolla",
-  "pageID": 47812334,
-  "categories": [
-    "1965 births",
-    "21st-century Albanian women politicians",
-    "Education ministers of Albania",
-    "Government ministers of Albania",
-    "Living people",
-    "Members of the Parliament of Albania",
-    "Socialist Party of Albania politicians",
-    "Speakers of the Parliament of Albania",
-    "Women government ministers of Albania",
-    "Women members of the Parliament of Albania",
-    "Youth ministers of Albania"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lindita Nikolla (born: 22 October 1965) is an Albanian politician",
-              "links": [
-                {
-                  "text": "Albanian",
-                  "type": "internal",
-                  "page": "Albania"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lindita Nikolla"
-                ]
-              }
-            },
-            {
-              "text": "who is serving as the Speaker of the Parliament since September 10, 2021.",
-              "links": [
-                {
-                  "text": "Speaker of the Parliament",
-                  "type": "internal",
-                  "page": "Speaker of the Parliament of Albania"
-                }
-              ]
-            },
-            {
-              "text": "Previously she served as the Ministry of Education, Sports and Youth in September 2013 until May 2017, where she temporarily handed over the post to Mirela Karabina as part of a pre-election agreement between the position and the opposition.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ministry of Education, Sports and Youth"
-                }
-              ]
-            },
-            {
-              "text": "Mrs Nikolla was appointed again Minister of Education, Sports and Youth in September 2017 until 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Albanian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1965",
-          "month": "10",
-          "day": "22",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Lindita Nikolla"
-          },
-          "image": {
-            "text": "Lindita Nikolla (portret).jpg"
-          },
-          "office": {
-            "text": "38th Speaker of the Parliament",
-            "links": [
-              {
-                "text": "Speaker of the Parliament",
-                "type": "internal",
-                "page": "Speaker of the Parliament of Albania"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 September 2021"
-          },
-          "predecessor": {
-            "text": "Gramoz Ruçi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gramoz Ruçi"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Ministry of Education, Sports and Youth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ministry of Education, Sports and Youth"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Edi Rama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edi Rama"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "15 September 2013"
-          },
-          "term_end1": {
-            "text": "11 May 2017"
-          },
-          "predecessor1": {
-            "text": "Myqerem Tafaj",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Myqerem Tafaj"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Mirela Karabina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mirela Karabina"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Edi Rama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edi Rama"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "13 September 2017"
-          },
-          "term_end2": {
-            "text": "17 January 2019"
-          },
-          "predecessor2": {
-            "text": "Mirela Karabina (Education and Sports)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mirela Karabina"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Besa Shahini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Besa Shahini"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 22, 1965"
-          },
-          "birth_place": {
-            "text": "Tirana, Albania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tirana"
-              },
-              {
-                "type": "internal",
-                "page": "Albania"
-              }
-            ]
-          },
-          "party": {
-            "text": "Socialist Party",
-            "links": [
-              {
-                "text": "Socialist Party",
-                "type": "internal",
-                "page": "Socialist Party of Albania"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ligor Nikolla"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "education": {
-            "text": "University of Tirana Albanian University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tirana"
-              },
-              {
-                "type": "internal",
-                "page": "Albanian University"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Lindita Nikolla (nënshkrim).svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Lindita Nikolla",
+  "image": "Lindita Nikolla (portret).jpg",
+  "office": "38th Speaker of the Parliament",
+  "term_start": "10 September 2021",
+  "predecessor": "Gramoz Ruçi",
+  "office1": "Ministry of Education, Sports and Youth",
+  "primeminister1": "Edi Rama",
+  "term_start1": "15 September 2013",
+  "term_end1": "11 May 2017",
+  "predecessor1": "Myqerem Tafaj",
+  "successor1": "Mirela Karabina",
+  "primeminister2": "Edi Rama",
+  "term_start2": "13 September 2017",
+  "term_end2": "17 January 2019",
+  "predecessor2": "Mirela Karabina (Education and Sports)",
+  "successor2": "Besa Shahini",
+  "birth_date": "October 22, 1965",
+  "birth_place": "Tirana, Albania",
+  "party": "Socialist Party",
+  "spouse": "Ligor Nikolla",
+  "children": "1",
+  "education": "University of Tirana Albanian University",
+  "signature": "Lindita Nikolla (nënshkrim).svg"
 }

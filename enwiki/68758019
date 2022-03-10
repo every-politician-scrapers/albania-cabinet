@@ -1,168 +1,19 @@
 {
-  "title": "Frida Krifca",
-  "pageID": 68758019,
-  "categories": [
-    "Living people",
-    "1978 births",
-    "Government ministers of Albania",
-    "Women government ministers of Albania"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Frida Krifca (born March 20, 1978) is an Albanian politician who is currently serving as the Minister of Agliculture in the Rama III Cabinet since September 2021.",
-              "links": [
-                {
-                  "text": "Minister of Agliculture",
-                  "type": "internal",
-                  "page": "Ministry of Agriculture and Rural Development (Albania)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Frida Krifca"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1978",
-          "month": "3",
-          "day": "20",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2021",
-            "month": "09",
-            "date": "18",
-            "df": "yes",
-            "template": "start date",
-            "text": "September 18, 2021"
-          }
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Frida Krifca"
-          },
-          "image": {
-            "text": "Frida Krifca (portret).jpg"
-          },
-          "birth_date": {
-            "text": "March 20, 1978"
-          },
-          "birth_place": {
-            "text": "Tirane, Albania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tirane"
-              },
-              {
-                "type": "internal",
-                "page": "Albania"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Astrit Krifca (father)"
-          },
-          "office": {
-            "text": "Minister of Agliculture and Rural Development",
-            "links": [
-              {
-                "text": "Minister of Agliculture and Rural Development",
-                "type": "internal",
-                "page": "Ministry of Agriculture and Rural Development (Albania)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ilir Meta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilir Meta"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Edi Rama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edi Rama"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Milva Ekonomi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Milva Ekonomi"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "September 18, 2021"
-          },
-          "nationality": {
-            "text": "Albanian",
-            "links": [
-              {
-                "text": "Albanian",
-                "type": "internal",
-                "page": "Albania"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Socialist Party",
-            "links": [
-              {
-                "text": "Socialist Party",
-                "type": "internal",
-                "page": "Socialist Party of Albania"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "education": {
-            "text": "University of Tirana · University of Akron · Harvard Business School"
-          },
-          "alma_mater": {
-            "text": "Faculty of Economics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faculty of Economics"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Frida Krifca (nënshkrim).svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Frida Krifca",
+  "image": "Frida Krifca (portret).jpg",
+  "birth_date": "March 20, 1978",
+  "birth_place": "Tirane, Albania",
+  "parents": "Astrit Krifca (father)",
+  "office": "Minister of Agliculture and Rural Development",
+  "president": "Ilir Meta",
+  "primeminister": "Edi Rama",
+  "predecessor": "Milva Ekonomi",
+  "termstart": "September 18, 2021",
+  "nationality": "Albanian",
+  "occupation": "Politician",
+  "party": "Socialist Party",
+  "children": "2",
+  "education": "University of Tirana · University of Akron · Harvard Business School",
+  "alma_mater": "Faculty of Economics",
+  "signature": "Frida Krifca (nënshkrim).svg"
 }
