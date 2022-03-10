@@ -1,214 +1,24 @@
 {
-  "title": "Bajram Begaj",
-  "pageID": 66761188,
-  "categories": [
-    "1967 births",
-    "Living people",
-    "Albanian generals"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bajram Begaj is an Albanian military officer, who is serving as the Chief of General Staff of the Albanian Armed Forces.",
-              "links": [
-                {
-                  "text": "Albanian",
-                  "type": "internal",
-                  "page": "Albania"
-                },
-                {
-                  "text": "Chief of General Staff",
-                  "type": "internal",
-                  "page": "Chief of the Albanian General Staff"
-                },
-                {
-                  "type": "internal",
-                  "page": "Albanian Armed Forces"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bajram Begaj"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Albanian military officer",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "year": "1967",
-          "month": "03",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "90"
-          ],
-          "template": "transform-rotate"
-        },
-        {
-          "list": [
-            "7"
-          ],
-          "template": "spaces"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Major General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Major General"
-              }
-            ]
-          },
-          "name": {
-            "text": "Bajram Begaj"
-          },
-          "image": {
-            "text": "File:Major General Bajram Begaj.png"
-          },
-          "image_size": {
-            "text": "200 px"
-          },
-          "caption": {
-            "text": "Maj. Gen. Bajram Begaj"
-          },
-          "office": {
-            "text": "Chief of General Staff of Albanian Armed Forces",
-            "links": [
-              {
-                "text": "Chief of General Staff of Albanian Armed Forces",
-                "type": "internal",
-                "page": "Chief of the Albanian General Staff"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 July 2020"
-          },
-          "president": {
-            "text": "Ilir Meta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilir Meta"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Minister of Defense",
-            "links": [
-              {
-                "text": "Minister of Defense",
-                "type": "internal",
-                "page": "Ministry of Defence (Albania)"
-              }
-            ]
-          },
-          "1namedata": {
-            "text": "Niko Peleshi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Niko Peleshi"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Bardhyl Kollçaku",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bardhyl Kollçaku"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 20, 1967"
-          },
-          "birth_place": {
-            "text": "Rrogozhine, People's Socialist Republic of Albania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rrogozhine"
-              },
-              {
-                "type": "internal",
-                "page": "People's Socialist Republic of Albania"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Albanian",
-            "links": [
-              {
-                "text": "Albanian",
-                "type": "internal",
-                "page": "Albania"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Armanda Begaj"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "education": {
-            "text": "Faculty of Medicine"
-          },
-          "profession": {
-            "text": "Military officer"
-          },
-          "allegiance": {
-            "text": "🇦🇱Republic of Albania (since 1998)",
-            "links": [
-              {
-                "text": "🇦🇱",
-                "type": "internal",
-                "page": "albania"
-              },
-              {
-                "type": "internal",
-                "page": "Republic of Albania"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Albanian Armed Forces (since 1998)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albanian Armed Forces"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1988-"
-          },
-          "rank": {
-            "text": "<span style=\"\">ALB-Army-OF-7.svg Major General"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Major General",
+  "name": "Bajram Begaj",
+  "image": "File:Major General Bajram Begaj.png",
+  "image_size": "200 px",
+  "caption": "Maj. Gen. Bajram Begaj",
+  "office": "Chief of General Staff of Albanian Armed Forces",
+  "term_start": "29 July 2020",
+  "president": "Ilir Meta",
+  "1blankname": "Minister of Defense",
+  "1namedata": "Niko Peleshi",
+  "predecessor": "Bardhyl Kollçaku",
+  "birth_date": "March 20, 1967",
+  "birth_place": "Rrogozhine, People's Socialist Republic of Albania",
+  "nationality": "Albanian",
+  "spouse": "Armanda Begaj",
+  "children": "2",
+  "education": "Faculty of Medicine",
+  "profession": "Military officer",
+  "allegiance": "🇦🇱Republic of Albania (since 1998)",
+  "branch": "Albanian Armed Forces (since 1998)",
+  "serviceyears": "1988-",
+  "rank": "<span style=\"\">ALB-Army-OF-7.svg Major General"
 }

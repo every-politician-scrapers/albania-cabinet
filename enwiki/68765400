@@ -1,176 +1,19 @@
 {
-  "title": "Evis Kushi",
-  "pageID": 68765400,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Government ministers of Albania",
-    "Women government ministers of Albania",
-    "Education ministers of Albania"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Evis Kushi (born 7 October 1975) is an Albanian politician.",
-              "formatting": {
-                "bold": [
-                  "Evis Kushi"
-                ]
-              }
-            },
-            {
-              "text": "She is serving as 52nd Minister of Education, Sports and Youth since September 2020.",
-              "links": [
-                {
-                  "text": "Minister of Education, Sports and Youth",
-                  "type": "internal",
-                  "page": "Ministry of Education, Sports and Youth"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1975",
-          "month": "10",
-          "day": "7",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2020",
-            "month": "9",
-            "date": "14",
-            "df": "yes",
-            "template": "start date",
-            "text": "September 14, 2020"
-          }
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Evis Kushi"
-          },
-          "office": {
-            "text": "52nd Minister of Education, Youth and Sports",
-            "links": [
-              {
-                "text": "Minister of Education, Youth and Sports",
-                "type": "internal",
-                "page": "Ministry of Education and Sport (Albania)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ilir Meta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ilir Meta"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Edi Rama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edi Rama"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "birth_date": {
-            "text": "October 7, 1975"
-          },
-          "birth_place": {
-            "text": "Elbasan, Albania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elbasan"
-              },
-              {
-                "type": "internal",
-                "page": "Albania"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Besa Shahini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Besa Shahini"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "September 14, 2020"
-          },
-          "education": {
-            "text": "Universiteti \"Aleksandër Xhuvani\"",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Universiteti \"Aleksandër Xhuvani\""
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Faculty of Economics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faculty of Economics"
-              }
-            ]
-          },
-          "party": {
-            "text": "Socialist Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Socialist Party"
-              }
-            ]
-          },
-          "cabinet": {
-            "text": "Rama Cabinet",
-            "links": [
-              {
-                "text": "Rama Cabinet",
-                "type": "internal",
-                "page": "Rama Government"
-              }
-            ]
-          },
-          "website": {
-            "text": "https://www.parlament.al"
-          },
-          "image": {
-            "text": "Evis Kushi (portret).jpg"
-          },
-          "caption": {
-            "text": "Kushi in 2020"
-          },
-          "signature": {
-            "text": "Evis Kushi (nënshkrim).svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Evis Kushi",
+  "office": "52nd Minister of Education, Youth and Sports",
+  "president": "Ilir Meta",
+  "primeminister": "Edi Rama",
+  "occupation": "Politician",
+  "birth_date": "October 7, 1975",
+  "birth_place": "Elbasan, Albania",
+  "predecessor": "Besa Shahini",
+  "termstart": "September 14, 2020",
+  "education": "Universiteti \"Aleksandër Xhuvani\"",
+  "alma_mater": "Faculty of Economics",
+  "party": "Socialist Party",
+  "cabinet": "Rama Cabinet",
+  "website": "https://www.parlament.al",
+  "image": "Evis Kushi (portret).jpg",
+  "caption": "Kushi in 2020",
+  "signature": "Evis Kushi (nënshkrim).svg"
 }
