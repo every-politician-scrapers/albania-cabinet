@@ -1,14 +1,14 @@
 id,name,relationship,relative,relativename
-Q13040130,Ilir Gjoni,father,Q1694920,Xhelil Gjoni
-Q13043722,Olta Xhaçka,spouse,Q19931525,Artan Gaçi
-Q16350979,Bledi Çuçi,spouse,Q109564030,Delina Fico
-Q19931525,Artan Gaçi,spouse,Q13043722,Olta Xhaçka
-Q316901,Edi Rama,father,Q3301037,Kristaq Rama
-Q316901,Edi Rama,mother,Q110835051,Aneta Rama
-Q316901,Edi Rama,spouse,Q109562957,Linda Basha
-Q316901,Edi Rama,spouse,Q109564030,Delina Fico
-Q316901,Edi Rama,spouse,Q11771521,Matilda Makoçi
-Q31965890,Rudina Hajdari,father,Q793657,Azem Hajdari
-Q57625,Sali Berisha,spouse,Q11757807,Liri Berisha
-Q6900200,Monika Kryemadhi,spouse,Q727132,Ilir Meta
-Q727132,Ilir Meta,spouse,Q6900200,Monika Kryemadhi
+Q13040130,Ilir Gjoni,father,Q1694920,
+Q13043722,Olta Xhaçka,spouse,Q19931525,
+Q16350979,Bledi Çuçi,spouse,Q109564030,
+Q19931525,Artan Gaçi,spouse,Q13043722,
+Q316901,Edi Rama,father,Q3301037,
+Q316901,Edi Rama,mother,Q110835051,
+Q316901,Edi Rama,spouse,Q109562957,
+Q316901,Edi Rama,spouse,Q109564030,
+Q316901,Edi Rama,spouse,Q11771521,
+Q31965890,Rudina Hajdari,father,Q793657,
+Q57625,Sali Berisha,spouse,Q11757807,
+Q6900200,Monika Kryemadhi,spouse,Q727132,
+Q727132,Ilir Meta,spouse,Q6900200,
