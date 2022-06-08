@@ -19,11 +19,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds.count < 4
-    end
-
-    def tds
-      noko.css('td,th')
+      (tds.count < 4) || super
     end
   end
 end

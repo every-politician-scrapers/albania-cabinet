@@ -1,16 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Mehmet Pashë Derralla->Mehmet Deralla,Q6809645,1912-12-04,1914-01-24
-->,Essad Pasha Toptani->Esad Toptani,Q366796,1914-03-14,1914-05-20
-->,Kara Seit Pasha,Q109637757,1914-08-01->1914-08,1914-09-03
-+++,Isuf Dibra,Q61079675,1914-10-05,1916-01-27
-+++,Ali Riza Kolonja,Q16348399,1920-01-30,1920-11-04
-+++,Selahudin Shkoza,,1920-11-15,1921-10-16
-+++,Isuf Gjinali,,1921-10-16,1921-12-06
-+++,Zija Dibra,,1921-12-06,1921-12-12
-+++,Shefki Kosturi,,1921-12-12,1921-12-24
-+++,Ismail Haki Tatzati,,1921-12-24,1923-08-19
-+++,Kasem Qafzezi,,1924-06-16,1924-12-24
-->,Ndriçim Karakaçi,Q44393276->NULL,1991-05-11,1991-06-04
-->,Luan Hajdaraga,Q13042223->NULL,1998-04-24,2000-07-08
-->,Luan Rama,Q16363070->NULL,2002-02-22,2002-07-25
-->,Niko Peleshi,Q13043483,2020-12-31->2021-01-04,
+@@,item,itemlabel,startdate,enddate
+->,Q13043483,Niko Peleshi,2020-12-31->2021-01-04,
