@@ -8,17 +8,17 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('span a').text.tidy
+      noko.css('h3').first.text.tidy
     end
 
     def position
-      noko.css('span').last.text.split(/(?:and (?=Minister))/).map(&:tidy)
+      noko.css('h3').last.text.split(/(?:and (?=Minister))/).map(&:tidy)
     end
   end
 
   class Members
     def member_container
-      noko.css('.container .sm-2')
+      noko.css('.body-content .grid-item')
     end
   end
 end
