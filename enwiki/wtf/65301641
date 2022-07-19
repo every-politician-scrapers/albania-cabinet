@@ -1,0 +1,215 @@
+{
+  "title": "Belinda Balluku",
+  "pageID": 65301641,
+  "categories": [
+    "Living people",
+    "1973 births",
+    "Politicians from Tirana",
+    "21st-century Albanian politicians",
+    "Government ministers of Albania",
+    "Women government ministers of Albania",
+    "Energy ministers of Albania",
+    "21st-century Albanian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Belinda Balluku (born 9 October 1973) is an Albanian politician.",
+              "links": [
+                {
+                  "text": "Albanian",
+                  "type": "internal",
+                  "page": "Albania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Belinda Balluku"
+                ]
+              }
+            },
+            {
+              "text": ", she serves as Minister of Infrastructure and Energy in the second cabinet of Edi Rama.",
+              "links": [
+                {
+                  "text": "Minister of Infrastructure and Energy",
+                  "type": "internal",
+                  "page": "Ministry of Infrastructure and Energy (Albania)"
+                },
+                {
+                  "text": "second cabinet",
+                  "type": "internal",
+                  "page": "Rama II Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edi Rama"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "1",
+            "date": "17",
+            "df": "yes",
+            "template": "start date",
+            "text": "January 17, 2019"
+          }
+        },
+        {
+          "year": "1973",
+          "month": "10",
+          "day": "9",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2019",
+            "1",
+            "17"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Belinda Balluku"
+          },
+          "office": {
+            "text": "Minister of Infrastructure and Energy",
+            "links": [
+              {
+                "text": "Minister of Infrastructure and Energy",
+                "type": "internal",
+                "page": "Ministry of Infrastructure and Energy (Albania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 17, 2019"
+          },
+          "president": {
+            "text": "Ilir Meta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Damian Gjiknuri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damian Gjiknuri"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 9, 1973"
+          },
+          "birth_place": {
+            "text": "Tirana, People's Socialist Republic of Albania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tirana"
+              },
+              {
+                "type": "internal",
+                "page": "People's Socialist Republic of Albania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party",
+            "links": [
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party of Albania"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Belinda Balluku (nënshkrim).svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "17 January 2019",
+          "title": "Albania: New govt ministers sworn in, EU considers it an important moment",
+          "work": "Independent Balkan News Agency",
+          "url": "https://balkaneu.com/albania-new-govt-ministers-sworn-ineu-considers-it-an-important-moment/",
+          "url-status": "live",
+          "access-date": "13 September 2020",
+          "archive-url": "https://web.archive.org/web/20200913091100/https://balkaneu.com/albania-new-govt-ministers-sworn-ineu-considers-it-an-important-moment/",
+          "archive-date": "13 September 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Jonuzaj",
+          "first": "Klaudjo",
+          "date": "17 January 2019",
+          "title": "Albania's parliament endorses government reshuffle",
+          "work": "SeeNews",
+          "url": "https://seenews.com/news/albanias-parliament-endorses-government-reshuffle-639691",
+          "url-status": "live",
+          "access-date": "13 September 2020",
+          "archive-url": "https://web.archive.org/web/20190117174258/https://seenews.com/news/albanias-parliament-endorses-government-reshuffle-639691",
+          "archive-date": "17 January 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "albania-politician-stub"
+        }
+      ]
+    }
+  ]
+}
