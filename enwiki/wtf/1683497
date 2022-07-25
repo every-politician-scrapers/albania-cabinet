@@ -29,18 +29,21 @@
         {
           "sentences": [
             {
-              "text": "Ilir Rexhep Meta (born 24 March 1969) is an Albanian politician who has served as President of Albania since 24 July 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of Albania"
-                }
-              ],
+              "text": "Ilir Rexhep Meta (born 24 March 1969) is an Albanian politician.",
               "formatting": {
                 "bold": [
                   "Ilir Rexhep Meta"
                 ]
               }
+            },
+            {
+              "text": "He served as President of Albania from 24 July 2017 to 24 July 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Albania"
+                }
+              ]
             }
           ]
         },
@@ -184,12 +187,24 @@
           "term_start": {
             "text": "24 July 2017"
           },
+          "term_end": {
+            "text": "24 July 2022"
+          },
           "predecessor": {
             "text": "Bujar Nishani",
             "links": [
               {
                 "type": "internal",
                 "page": "Bujar Nishani"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Bajram Begaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bajram Begaj"
               }
             ]
           },
@@ -366,7 +381,7 @@
             ]
           },
           "party": {
-            "text": "Independent (2017–present)",
+            "text": "Independent (2017–2022)",
             "links": [
               {
                 "text": "Independent",
@@ -1212,10 +1227,7 @@
               ]
             },
             {
-              "text": "He sits in Section 111 next to Mark Coleman."
-            },
-            {
-              "text": "In July 2020, he founded the first Celtic Supporter's Club in Albania which was officially opened by Rudi Vata, former player of Celtic FC, alongside Gerry Adams, President of Sinn Fein."
+              "text": "In July 2020, he founded the first Celtic Supporters Club in Albania."
             }
           ]
         },
@@ -1231,7 +1243,7 @@
               ]
             },
             {
-              "text": "They have two daughters and a son, Henrik, Erin & Saoirse."
+              "text": "They have two daughters and a son."
             }
           ]
         }

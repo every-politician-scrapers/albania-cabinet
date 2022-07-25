@@ -277,7 +277,7 @@
             "text": "13 September 2013"
           },
           "president": {
-            "text": "Bujar Nishani\nIlir Meta",
+            "text": "Bujar Nishani\nIlir Meta\nBajram Begaj",
             "links": [
               {
                 "type": "internal",
@@ -286,6 +286,10 @@
               {
                 "type": "internal",
                 "page": "Ilir Meta"
+              },
+              {
+                "type": "internal",
+                "page": "Bajram Begaj"
               }
             ]
           },
