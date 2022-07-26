@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief of the General Staff (Albania)"
+    },
+    "P1545": "26",
+    "P580": "2020-07-29",
+    "P1365": {
+      "links": [
+        "Bardhyl Kollçaku"
+      ],
+      "stated_as": "Bardhyl Kollçaku"
+    },
+    "P582": "2022-06-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "To be announced"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Albania"
+      ],
+      "stated_as": "President of Albania"
+    },
+    "P580": "2022-07-24",
+    "P1365": {
+      "links": [
+        "Ilir Meta"
+      ],
+      "stated_as": "Ilir Meta"
+    }
+  }
+]

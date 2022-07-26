@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education, Sports and Youth"
+      ],
+      "stated_as": "Ministry of Education, Sports and Youth"
+    },
+    "P580": "2013-09-15",
+    "P1365": {
+      "links": [
+        "Myqerem Tafaj"
+      ],
+      "stated_as": "Myqerem Tafaj"
+    },
+    "P582": "2017-05-11",
+    "P1366": {
+      "links": [
+        "Mirela Karabina"
+      ],
+      "stated_as": "Mirela Karabina"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education, Sports and Youth"
+      ],
+      "stated_as": "Ministry of Education, Sports and Youth"
+    },
+    "P580": "2017-09-13",
+    "P1365": {
+      "links": [
+        "Mirela Karabina"
+      ],
+      "stated_as": "Mirela Karabina (Education and Sports)"
+    },
+    "P582": "2019-01-17",
+    "P1366": {
+      "links": [
+        "Besa Shahini"
+      ],
+      "stated_as": "Besa Shahini"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the Parliament of Albania"
+      ],
+      "stated_as": "38th Speaker of the Parliament"
+    },
+    "P580": "2021-09-10",
+    "P1365": {
+      "links": [
+        "Gramoz Ruçi"
+      ],
+      "stated_as": "Gramoz Ruçi"
+    }
+  }
+]

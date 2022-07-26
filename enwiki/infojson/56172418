@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tiranë County"
+      ],
+      "stated_as": "Tirana"
+    },
+    "P580": "2017-06-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health and Social Protection"
+      ],
+      "stated_as": "Minister of Health and Social Care"
+    },
+    "P580": "2017-09-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Arben Beqiri"
+    }
+  }
+]
