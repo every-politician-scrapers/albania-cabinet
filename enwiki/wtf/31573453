@@ -256,12 +256,24 @@
           "term_start": {
             "text": "September 18, 2021"
           },
+          "term_end": {
+            "text": "25 July 2022"
+          },
           "predecessor": {
             "text": "Erion Braçe",
             "links": [
               {
                 "type": "internal",
                 "page": "Erion Braçe"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Belinda Balluku",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Belinda Balluku"
               }
             ]
           },
