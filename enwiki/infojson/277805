@@ -1,0 +1,121 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Albania)"
+      ],
+      "stated_as": "22nd Minister of Culture, Youth and Sports"
+    },
+    "P580": "1998-10-02",
+    "P1365": {
+      "links": [
+        "Arta Dade"
+      ],
+      "stated_as": "Arta Dade"
+    },
+    "P582": "2000-10-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Esmeralda Uruçi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Tirana"
+    },
+    "P1545": "40",
+    "P580": "2000-10-11",
+    "P1365": {
+      "links": [
+        "Albert Brojka"
+      ],
+      "stated_as": "Albert Brojka"
+    },
+    "P582": "2011-07-25",
+    "P1366": {
+      "links": [
+        "Lulzim Basha"
+      ],
+      "stated_as": "Lulzim Basha"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairman of the Socialist Party of Albania"
+      ],
+      "stated_as": "Chairman of the Socialist Party of Albania"
+    },
+    "P580": "2005-10-10",
+    "P1365": {
+      "links": [
+        "Fatos Nano"
+      ],
+      "stated_as": "Fatos Nano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Albania"
+      ],
+      "stated_as": "33rd Prime Minister of Albania"
+    },
+    "P580": "2013-09-13",
+    "P1365": {
+      "links": [
+        "Sali Berisha"
+      ],
+      "stated_as": "Sali Berisha"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Albania)"
+      ],
+      "stated_as": "40th Minister of Foreign Affairs"
+    },
+    "P580": "2019-01-21",
+    "P1365": {
+      "links": [
+        "Ditmir Bushati"
+      ],
+      "stated_as": "Ditmir Bushati"
+    },
+    "P582": "2020-12-31",
+    "P1366": {
+      "links": [
+        "Olta Xhaçka"
+      ],
+      "stated_as": "Olta Xhaçka"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Organization for Security and Co-operation in Europe"
+      ],
+      "stated_as": "Chairperson-in-Office of the Organization for Security and Co-operation in Europe"
+    },
+    "P580": "2020-01-01",
+    "P1365": {
+      "links": [
+        "Miroslav Lajčák"
+      ],
+      "stated_as": "Miroslav Lajčák"
+    },
+    "P582": "2021-01-01",
+    "P1366": {
+      "links": [
+        "Ann Linde"
+      ],
+      "stated_as": "Ann Linde"
+    }
+  }
+]

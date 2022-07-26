@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Assembly of the Republic of Albania"
+      ],
+      "stated_as": "Member of the Albanian parliament"
+    },
+    "P580": "2013-09-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Cultural Affairs (Albania)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2013-09-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Visar Zhiti"
+    },
+    "P582": "2019-01-17",
+    "P1366": {
+      "links": [
+        "Elva Margariti"
+      ],
+      "stated_as": "Elva Margariti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Tourism and Environment (Albania)"
+      ],
+      "stated_as": "Minister of Tourism and Environment"
+    },
+    "P580": "2021-09-18",
+    "P1365": {
+      "links": [
+        "Blendi Klosi"
+      ],
+      "stated_as": "Blendi Klosi"
+    }
+  }
+]

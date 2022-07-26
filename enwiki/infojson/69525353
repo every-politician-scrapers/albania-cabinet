@@ -1,0 +1,59 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economic Development, Tourism, Trade and Enterprise (Albania)"
+      ],
+      "stated_as": "Ministry of Economic Development, Tourism, Trade and Enterprise"
+    },
+    "P580": "2016-02-26",
+    "P1365": {
+      "links": [
+        "Arben Ahmetaj"
+      ],
+      "stated_as": "Arben Ahmetaj"
+    },
+    "P582": "2017-09-13"
+  },
+  {
+    "office": {
+      "links": [
+        "31st Legislature of Albania",
+        "Parliament of Albania"
+      ],
+      "stated_as": "Member of the 30th and 31st Parliament of Albania"
+    },
+    "P580": "2017-09-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture and Rural Development (Albania)"
+      ],
+      "stated_as": "Ministry of Agriculture and Rural Development"
+    },
+    "P580": "2020-12-18",
+    "P1365": {
+      "links": [
+        "Bledar Çuçi"
+      ],
+      "stated_as": "Bledar Çuçi"
+    },
+    "P582": "2021-09-18",
+    "P1366": {
+      "links": [
+        "Frida Krifca"
+      ],
+      "stated_as": "Frida Krifca"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of State for Standards and Services (Albania)"
+      ],
+      "stated_as": "Minister of State for Standards and Services"
+    },
+    "P580": "2021-09-18"
+  }
+]

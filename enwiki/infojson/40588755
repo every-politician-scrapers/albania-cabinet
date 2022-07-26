@@ -1,0 +1,98 @@
+[
+  {
+    "office": {
+      "links": [
+        "Korçë"
+      ],
+      "stated_as": "Mayor of Korçë"
+    },
+    "P580": "2007-02-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Robert Damo"
+    },
+    "P582": "2013-09-15",
+    "P1366": {
+      "links": [
+        "Sotiraq Filo"
+      ],
+      "stated_as": "Sotiraq Filo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Albania"
+      ],
+      "stated_as": "Deputy Prime Minister of Albania"
+    },
+    "P580": "2013-09-15",
+    "P1365": {
+      "links": [
+        "Myqerem Tafaj"
+      ],
+      "stated_as": "Myqerem Tafaj"
+    },
+    "P582": "2017-05-22",
+    "P1366": {
+      "links": [
+        "Ledina Mandia"
+      ],
+      "stated_as": "Ledina Mandia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Korçë County"
+      ],
+      "stated_as": "Korça"
+    },
+    "P580": "2017-06-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture and Rural Development (Albania)"
+      ],
+      "stated_as": "Minister of Agriculture and Rural Development"
+    },
+    "P580": "2017-09-13",
+    "P1365": {
+      "links": [
+        "Edmond Panariti"
+      ],
+      "stated_as": "Edmond Panariti"
+    },
+    "P582": "2019-01-05",
+    "P1366": {
+      "links": [
+        "Bledi Çuçi"
+      ],
+      "stated_as": "Bledi Çuçi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Albania)"
+      ],
+      "stated_as": "35th Defence Minister of Albania"
+    },
+    "P580": "2021-01-04",
+    "P1365": {
+      "links": [
+        "Olta Xhaçka"
+      ],
+      "stated_as": "Olta Xhaçka"
+    }
+  }
+]

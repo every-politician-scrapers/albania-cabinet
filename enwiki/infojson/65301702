@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of State for Local Governance (Albania)"
+      ],
+      "stated_as": "Minister of State for Local Governance"
+    },
+    "P580": "2013-09-15",
+    "P582": "2017-03-19",
+    "P1366": {
+      "links": [
+        "Eduard Shalsi"
+      ],
+      "stated_as": "Eduard Shalsi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (Albania) "
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2020-12-17"
+  }
+]
