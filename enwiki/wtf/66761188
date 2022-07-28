@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Bajram Begaj (born 20 March 1967) is an Albanian retired military officer and politician, who serves currently as the 9th President of Albania since 24 July, 2022.",
+              "text": "Bajram Begaj (born 20 March 1967) is an Albanian retired military officer and politician, who is currently serving as the 9th President of Albania since 24 July 2022.",
               "links": [
                 {
                   "text": "Albanian",
@@ -67,7 +67,7 @@
               ]
             },
             {
-              "text": "Upon assuming office, Begaj will become the fifth president in the history of Albania to have a military background, after Ahmet Zogu, Ramiz Alia, Alfred Moisiu and Bujar Nishani.",
+              "text": "Begaj is the fifth president in the history of Albania to have a military background, after Ahmet Zogu, Ramiz Alia, Alfred Moisiu and Bujar Nishani.",
               "links": [
                 {
                   "text": "Ahmet Zogu",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "title": "Biography",
+      "title": "Early life and career",
       "depth": 0,
       "paragraphs": [
         {
@@ -340,9 +340,6 @@
             },
             {
               "text": "Having completed his professional doctorate degree, he holds the title \"Associate Professor\" in Medicine."
-            },
-            {
-              "text": "He is married and has two sons."
             }
           ]
         },
@@ -383,12 +380,33 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "references": [
+        {
+          "title": "U dekretua gjeneral major nga presidenti Meta, kush është komandanti Bajram Bega?",
+          "url": "https://www.balkanweb.com/profil-u-dekretarua-gjeneral-major-nga-presidenti-meta-kush-eshte-komandanti-bajram-bega",
+          "website": "BalkanWeb",
+          "access-date": "3 July 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Presidency (2022–present)",
+      "depth": 0,
+      "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Begaj was voted by the parliament of Albania for the role of president on 4 June 2022, with 78 votes in favour, 4 against, and 1 abstention.",
+              "text": "Begaj was elected by the parliament of Albania for the role of president on 4 June 2022, with 78 votes in favour, 4 against, and 1 abstention.",
               "links": [
+                {
+                  "text": "elected",
+                  "type": "internal",
+                  "page": "2022 Albanian presidential election"
+                },
                 {
                   "text": "parliament of Albania",
                   "type": "internal",
@@ -400,37 +418,12 @@
               "text": "57 MPs from the opposition boycotted the vote, claiming the process of naming candidates was irregular."
             },
             {
-              "text": "He is set to succeed Ilir Meta and assume office on 24 July 2022, as the 9th president of Albania.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ilir Meta"
-                },
-                {
-                  "text": "president of Albania",
-                  "type": "internal",
-                  "page": "president of Albania"
-                }
-              ]
+              "text": "Begaj was sworn in on 24 July 2022."
             }
           ]
         }
       ],
-      "templates": [
-        {
-          "date": "June 2022",
-          "template": "cn"
-        }
-      ],
       "references": [
-        {
-          "title": "U dekretua gjeneral major nga presidenti Meta, kush është komandanti Bajram Bega?",
-          "url": "https://www.balkanweb.com/profil-u-dekretarua-gjeneral-major-nga-presidenti-meta-kush-eshte-komandanti-bajram-bega",
-          "website": "BalkanWeb",
-          "access-date": "3 July 2020",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "title": "Albania Elects Top General as Country’s New President",
           "url": "https://www.voanews.com/a/albania-elects-top-general-as-country-s-new-president-/6603918.html",
@@ -439,15 +432,19 @@
           "language": "en",
           "template": "citation",
           "type": "web"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
         {
-          "title": "Me 78 vota pro, Bajram Begaj zgjidhet Presidenti i 8-të i Shqipërisë {{!}} RTSH Lajme",
-          "url": "https://lajme.rtsh.al/artikull/me-78-vota-pro-bajram-begaj-zgjidhet-presidenti-i-8-te-i-shqiperise-",
-          "access-date": "2022-06-04",
-          "website": "lajme.rtsh.al",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
+          "sentences": [
+            {
+              "text": "Begaj is married to Armanda Begaj, with whom he has two sons, Dorian and Klajdi."
+            }
+          ]
         }
       ]
     },
