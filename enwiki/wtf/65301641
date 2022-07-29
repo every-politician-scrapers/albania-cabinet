@@ -76,6 +76,17 @@
           }
         },
         {
+          "template": "date",
+          "data": {
+            "year": "2022",
+            "month": "7",
+            "date": "25",
+            "df": "y",
+            "template": "start date",
+            "text": "July 25, 2022"
+          }
+        },
+        {
           "year": "1973",
           "month": "10",
           "day": "9",
@@ -110,11 +121,15 @@
             "text": "January 17, 2019"
           },
           "president": {
-            "text": "Ilir Meta",
+            "text": "Ilir Meta\nBajram Begaj",
             "links": [
               {
                 "type": "internal",
                 "page": "Ilir Meta"
+              },
+              {
+                "type": "internal",
+                "page": "Bajram Begaj"
               }
             ]
           },
@@ -135,6 +150,50 @@
                 "page": "Damian Gjiknuri"
               }
             ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister",
+            "links": [
+              {
+                "text": "Deputy Prime Minister",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Albania"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Ilir Meta\nBajram Begaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilir Meta"
+              },
+              {
+                "type": "internal",
+                "page": "Bajram Begaj"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Arben Ahmetaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arben Ahmetaj"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "July 25, 2022"
           },
           "birth_date": {
             "text": "October 9, 1973"

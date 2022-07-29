@@ -255,6 +255,16 @@
           }
         },
         {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": " His Excellency ",
+                "type": "internal",
+                "page": " His Excellency "
+              }
+            ]
+          },
           "name": {
             "text": "Edi Rama"
           },
@@ -294,7 +304,7 @@
             ]
           },
           "deputy": {
-            "text": "Niko Peleshi\nLedina Mandia\nSenida Mesi\nErion Braçe\nArben Ahmetaj",
+            "text": "Niko Peleshi\nLedina Mandia\nSenida Mesi\nErion Braçe\nArben Ahmetaj\nBelinda Balluku",
             "links": [
               {
                 "type": "internal",
@@ -315,6 +325,10 @@
               {
                 "type": "internal",
                 "page": "Arben Ahmetaj"
+              },
+              {
+                "type": "internal",
+                "page": "Belinda Balluku"
               }
             ]
           },

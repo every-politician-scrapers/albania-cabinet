@@ -106,6 +106,15 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
           "name": {
             "text": "Bajram Begaj"
           },
@@ -451,27 +460,17 @@
     {
       "title": "References",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
       "templates": [
         {
           "template": "reflist"
         },
         {
           "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Ilir Meta",
-          "template": "s-bef"
-        },
-        {
-          "title": "President of Albania",
-          "years": "2022–",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
         },
         {
           "template": "s-mil"
@@ -482,15 +481,33 @@
         },
         {
           "title": "Chief of the General Staff of the Albanian Armed Forces",
-          "years": "29 July 2020 – 4 June 2022",
+          "years": "2020–2022",
           "template": "s-ttl"
         },
         {
-          "after": "TBD",
-          "template": "s-aft"
+          "reason": "TBD",
+          "template": "s-non"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Ilir Meta",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Albania",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
         },
         {
           "template": "heads of state of albania"
+        },
+        {
+          "template": "heads of state of republics"
         },
         {
           "template": "authority control"
