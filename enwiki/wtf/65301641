@@ -80,10 +80,10 @@
           "data": {
             "year": "2022",
             "month": "7",
-            "date": "25",
+            "date": "28",
             "df": "y",
             "template": "start date",
-            "text": "July 25, 2022"
+            "text": "July 28, 2022"
           }
         },
         {
@@ -193,7 +193,7 @@
             ]
           },
           "term_start1": {
-            "text": "July 25, 2022"
+            "text": "July 28, 2022"
           },
           "birth_date": {
             "text": "October 9, 1973"
